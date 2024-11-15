@@ -3,7 +3,7 @@
 文章は`posts`に置くディレクトリの下で、`yyy-MM-dd-xxxx-xxxx.md`と名付けられた、内容フォーマットは以下の通りです。
 
 
-```yaml
+```md
 ---
 layout: mypost
 title:タイトル
